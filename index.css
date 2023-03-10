@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.layout{
+    width: 100;
+    height: 100vh;
+ }
+
+ /* header */
+ .header{
+    width: 100%;
+    height: 60px;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    align-items: space-between; 
+ }
+
+.header .leftNav{
+
+
+}
+
+.header .rightNav{
+
+
+}
+
+ /* main */
+ .main{
+
+
+ }
+
+/* footer */
+ .footer{
+
+
+ }
